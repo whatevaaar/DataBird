@@ -767,7 +767,7 @@ div#mCSB_1_container{
 .sticky-header .logo-box{
   position: relative;
   float: left;
-  padding: 21px 0px 14px 0px !important;
+  padding: .5rem 0px 14px 0px !important;
   border: none !important;
 }
 
@@ -1662,7 +1662,6 @@ div#mCSB_1_container{
 .main-header.style-five .header-upper{
   position: relative;
   max-width: 1770px;
-  padding: 0px 15px;
   width: 100%;
   margin: 0 auto;
 }
@@ -1734,7 +1733,8 @@ div#mCSB_1_container{
 }
 
 .main-header.style-five .logo-box .logo{
-  padding-top: 30px;
+  padding-top: 1rem;
+  padding-left: 1rem;
 }
 
 .main-header.style-one .main-menu .navigation > li{
